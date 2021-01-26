@@ -7,11 +7,11 @@
   "git": "https://github.com/asociacionfikra/kbide-plugin-ccs811",
   "author": "Islam",
   "email": "",
-  "url": "http://www.fikra.es",
+  "url": "https://www.fikra.es/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
-  "homepage": "http://www.fikra.org"
+  "image" : "/static/ccs811.png",
+  "homepage": "https://www.fikra.es/"
 }
