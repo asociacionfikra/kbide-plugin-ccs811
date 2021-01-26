@@ -12,6 +12,6 @@
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/ccs811.png",
+  "image" : "/static/CCS811.jpg",
   "homepage": "https://www.fikra.es/"
 }
