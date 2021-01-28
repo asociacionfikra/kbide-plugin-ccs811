@@ -1,1 +1,1 @@
-# Blink library for KB-IDE
+# CCS811 library for KB-IDE
